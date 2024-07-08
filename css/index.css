@@ -1,0 +1,84 @@
+body{
+    background-color: #392467 ;
+    font-family: 
+    "Titillium Web"
+    sans-serif;
+}
+
+.navbar{
+    background-color: #392467 !important;
+    box-shadow:-5px 5px 39px -5px  #26012e;
+}
+
+.navbar a{
+    color: #fff !important;
+}
+
+.Header{
+    font-size: 40px;
+}
+
+.loginForm{
+    background-color: #A367B1;
+    box-shadow: -5px 5px 39px -5px  #26012e;
+    border-radius: 20px;
+    padding: 20px;
+    color: #fff;
+}
+
+.registerForm{
+    background-color: #A367B1;
+    box-shadow: -5px 5px 39px -5px  #26012e;
+    border-radius: 20px;
+    padding: 20px;
+    color: #fff;
+}
+
+#loginEmail{
+    background-color: transparent;
+
+}
+
+#loginPassword{
+    background-color: transparent;
+}
+
+#registerUsername{
+    background-color: transparent;
+}
+
+#registerEmail{
+    background-color: transparent;
+}
+
+#registerPassword{
+    background-color: transparent;
+}
+
+
+.signup-gate a{
+    color: #fff;
+    text-decoration: none;
+}
+.welcomeMessage{
+    color: #fff;
+    box-shadow:-5px 5px 39px -5px  #26012e;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.btn{
+    margin-top: 20px;
+    width: 100%;
+    background-color: transparent;
+    border-color: #392467;
+    color: #fff;
+}
+.btn:hover{
+    background-color: #392467;
+    color: #FFD1E3;
+}
+.btn1{
+    background-color: transparent;
+    color: #FFD1E3;
+}
